@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"copy",
-    "path":"copy.yyp",
+    "name":"Horror-Dress-Up-Game-Official",
+    "path":"Horror-Dress-Up-Game-Official.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
