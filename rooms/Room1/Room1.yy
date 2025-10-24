@@ -9,7 +9,6 @@
     {"name":"inst_2993ED44","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_741EBE96","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_5B7D9249","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_7D7EAAEA","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_5A394F7F","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_11D5E14","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_6CEF6B17","path":"rooms/Room1/Room1.yy",},
@@ -81,6 +80,7 @@
     {"name":"inst_5EB5064A","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_22288622","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_62FEBAE5","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_7D7EAAEA","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd":true,
   "layers":[
@@ -93,7 +93,7 @@
     {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_22288622","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_22288622","objectId":{"name":"obj_prototypebg","path":"objects/obj_prototypebg/obj_prototypebg.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":96.0,},
-        {"$GMRInstance":"v2","%Name":"inst_62FEBAE5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_62FEBAE5","objectId":{"name":"obj_prototypebg_1","path":"objects/obj_prototypebg_1/obj_prototypebg_1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.43,"scaleY":1.36,"x":320.0,"y":96.0,},
+        {"$GMRInstance":"v2","%Name":"inst_62FEBAE5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_62FEBAE5","objectId":{"name":"obj_prototypebg_1","path":"objects/obj_prototypebg_1/obj_prototypebg_1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.43,"scaleY":1.36,"x":992.0,"y":576.0,},
         {"$GMRInstance":"v2","%Name":"inst_2993ED44","colour":4278255615,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2993ED44","objectId":{"name":"obj_hairbutton","path":"objects/obj_hairbutton/obj_hairbutton.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.0,"scaleY":1.0,"x":384.0,"y":256.0,},
         {"$GMRInstance":"v2","%Name":"inst_741EBE96","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_741EBE96","objectId":{"name":"obj_hairmenu","path":"objects/obj_hairmenu/obj_hairmenu.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.25,"scaleY":2.2672825,"x":1344.0,"y":254.89392,},
         {"$GMRInstance":"v2","%Name":"inst_5B7D9249","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5B7D9249","objectId":{"name":"obj_facebutton","path":"objects/obj_facebutton/obj_facebutton.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.0,"scaleY":1.0,"x":384.0,"y":352.0,},
