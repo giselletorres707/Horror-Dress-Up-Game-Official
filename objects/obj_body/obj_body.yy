@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_bracelet",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_body",
+  "eventList":[],
   "managed":true,
-  "name":"obj_bracelet",
+  "name":"obj_body",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Bracelet",
-    "path":"sprites/Bracelet/Bracelet.yy",
+    "name":"dollbody",
+    "path":"sprites/dollbody/dollbody.yy",
   },
   "spriteMaskId":null,
   "visible":true,
