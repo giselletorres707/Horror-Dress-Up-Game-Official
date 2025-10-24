@@ -10,8 +10,8 @@
   "name":"obj_fullbodymenu_drag_2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Full Body",
+    "path":"folders/Objects/Full Body.yy",
   },
   "parentObjectId":null,
   "persistent":false,

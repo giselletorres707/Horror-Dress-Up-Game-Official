@@ -8,8 +8,8 @@
   "name":"obj_shoes_2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Shoes",
+    "path":"folders/Objects/Shoes.yy",
   },
   "parentObjectId":null,
   "persistent":false,

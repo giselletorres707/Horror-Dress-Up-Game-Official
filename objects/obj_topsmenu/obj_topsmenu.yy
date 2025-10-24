@@ -9,8 +9,8 @@
   "name":"obj_topsmenu",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Tops",
+    "path":"folders/Objects/Tops.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -9,8 +9,8 @@
   "name":"obj_accessoriesmenu_6",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Accessories",
+    "path":"folders/Objects/Accessories.yy",
   },
   "parentObjectId":null,
   "persistent":false,

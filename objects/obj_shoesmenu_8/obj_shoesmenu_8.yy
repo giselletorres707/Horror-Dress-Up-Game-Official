@@ -9,8 +9,8 @@
   "name":"obj_shoesmenu_8",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Shoes",
+    "path":"folders/Objects/Shoes.yy",
   },
   "parentObjectId":null,
   "persistent":false,

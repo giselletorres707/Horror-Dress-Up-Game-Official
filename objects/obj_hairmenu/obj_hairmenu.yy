@@ -9,8 +9,8 @@
   "name":"obj_hairmenu",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Hair",
+    "path":"folders/Objects/Hair.yy",
   },
   "parentObjectId":null,
   "persistent":false,
