@@ -1,4 +1,5 @@
-if (obj_hairmenu.visible) {
+
+if (obj_hairmenu_6.visible) {
 
     if (mouse_check_button(mb_left)) {
         is_dragging = true;

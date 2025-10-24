@@ -1,12 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_hairmenu_3",
+  "%Name":"obj_hairmenu_drag_5",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":56,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_hairmenu_3",
+  "name":"obj_hairmenu_drag_5",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_hairmenu",
-    "path":"sprites/spr_hairmenu/spr_hairmenu.yy",
+    "name":"Hair",
+    "path":"sprites/Hair/Hair.yy",
   },
   "spriteMaskId":null,
   "visible":true,
