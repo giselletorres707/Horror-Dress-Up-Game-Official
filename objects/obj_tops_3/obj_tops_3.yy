@@ -8,8 +8,8 @@
   "name":"obj_tops_3",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Tops",
+    "path":"folders/Objects/Tops.yy",
   },
   "parentObjectId":null,
   "persistent":false,

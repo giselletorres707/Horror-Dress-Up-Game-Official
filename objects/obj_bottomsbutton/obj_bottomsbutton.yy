@@ -10,8 +10,8 @@
   "name":"obj_bottomsbutton",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Bottoms",
+    "path":"folders/Objects/Bottoms.yy",
   },
   "parentObjectId":null,
   "persistent":false,

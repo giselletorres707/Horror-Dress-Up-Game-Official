@@ -10,8 +10,8 @@
   "name":"obj_accessoriesmenu_drag_7",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Accessories",
+    "path":"folders/Objects/Accessories.yy",
   },
   "parentObjectId":null,
   "persistent":false,

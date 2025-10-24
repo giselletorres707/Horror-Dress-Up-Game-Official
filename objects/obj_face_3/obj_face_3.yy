@@ -8,8 +8,8 @@
   "name":"obj_face_3",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Face",
+    "path":"folders/Objects/Face.yy",
   },
   "parentObjectId":null,
   "persistent":false,
