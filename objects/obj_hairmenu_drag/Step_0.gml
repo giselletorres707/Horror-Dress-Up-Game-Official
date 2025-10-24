@@ -1,5 +1,5 @@
 // Only drag if the accessory menu is visible
-if (obj_accessoriesmenu.visible) {
+if (obj_hairmenu.visible) {
 
     // Start dragging when mouse is held
     if (mouse_check_button(mb_left)) {

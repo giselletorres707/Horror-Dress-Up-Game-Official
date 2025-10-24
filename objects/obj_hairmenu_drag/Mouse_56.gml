@@ -3,7 +3,7 @@ if (is_dragging) {
 
     // If released on the body, create permanent bracelet
     if (position_meeting(mouse_x, mouse_y, obj_body)) {
-        instance_create_layer(obj_body.x, obj_body.y, "Instances", obj_accessory1_bracelet);
+        instance_create_layer(obj_body.x, obj_body.y, "Instances", obj_hair);
     }
 
     // Remove draggable after releasing
