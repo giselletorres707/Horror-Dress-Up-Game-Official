@@ -11,7 +11,10 @@
     "name":"Accessories",
     "path":"folders/Objects/Accessories.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_accessories_parent",
+    "path":"objects/obj_accessories_parent/obj_accessories_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

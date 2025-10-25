@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Face",
-    "path":"sprites/Face/Face.yy",
+    "name":"Face_6",
+    "path":"sprites/Face_6/Face_6.yy",
   },
   "spriteMaskId":null,
   "visible":true,

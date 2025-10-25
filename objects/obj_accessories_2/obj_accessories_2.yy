@@ -11,7 +11,10 @@
     "name":"Accessories",
     "path":"folders/Objects/Accessories.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_accessories_parent",
+    "path":"objects/obj_accessories_parent/obj_accessories_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Accessory",
-    "path":"sprites/Accessory/Accessory.yy",
+    "name":"Accessory_2",
+    "path":"sprites/Accessory_2/Accessory_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

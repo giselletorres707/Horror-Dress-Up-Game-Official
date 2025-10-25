@@ -121,6 +121,27 @@ with (obj_fullbodymenu_8) {
 with (obj_accessoriesmenu) {
 	visible = false;
 }
+with (obj_accessoriesmenu_2) {
+    visible = false;
+}
+with (obj_accessoriesmenu_3) {
+    visible = false;
+}
+with (obj_accessoriesmenu_4) {
+    visible = false;
+}
+with (obj_accessoriesmenu_5) {
+    visible = false;
+}
+with (obj_accessoriesmenu_6) {
+    visible = false;
+}
+with (obj_accessoriesmenu_7) {
+    visible = false;
+}
+with (obj_accessoriesmenu_8) {
+    visible = false;
+}
 with (obj_shoesmenu) {
 	visible = false;
 }

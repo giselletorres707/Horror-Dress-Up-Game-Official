@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Accessory",
-    "path":"sprites/Accessory/Accessory.yy",
+    "name":"Accessory_4",
+    "path":"sprites/Accessory_4/Accessory_4.yy",
   },
   "spriteMaskId":null,
   "visible":true,

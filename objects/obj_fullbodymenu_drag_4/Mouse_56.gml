@@ -3,7 +3,10 @@ if (is_dragging) {
 
     if (position_meeting(mouse_x, mouse_y, obj_body)) {
 		
-				with (obj_fullbody_parent) instance_destroy();
+with (obj_fullbody_parent) instance_destroy();
+with (obj_tops_parent) instance_destroy();
+with (obj_bottoms_parent) instance_destroy();
+
 instance_create_layer(obj_body.x, obj_body.y, "Instances", obj_fullbody_4);
     }
 

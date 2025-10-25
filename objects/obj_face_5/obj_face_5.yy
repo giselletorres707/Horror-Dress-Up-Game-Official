@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Face",
-    "path":"sprites/Face/Face.yy",
+    "name":"Face_5",
+    "path":"sprites/Face_5/Face_5.yy",
   },
   "spriteMaskId":null,
   "visible":true,
