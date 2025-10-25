@@ -11,7 +11,10 @@
     "name":"Bottoms",
     "path":"folders/Objects/Bottoms.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_bottoms_parent",
+    "path":"objects/obj_bottoms_parent/obj_bottoms_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

@@ -11,7 +11,10 @@
     "name":"Shoes",
     "path":"folders/Objects/Shoes.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_shoes_parent",
+    "path":"objects/obj_shoes_parent/obj_shoes_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

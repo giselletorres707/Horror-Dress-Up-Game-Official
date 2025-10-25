@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Top",
-    "path":"sprites/Top/Top.yy",
+    "name":"Top_7",
+    "path":"sprites/Top_7/Top_7.yy",
   },
   "spriteMaskId":null,
   "visible":true,

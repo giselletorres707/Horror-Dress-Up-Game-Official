@@ -1,4 +1,4 @@
-if (obj_bottomsmenu_2.visible) {
+if (obj_bottomsmenu_3.visible) {
 
     if (mouse_check_button(mb_left)) {
         is_dragging = true;

@@ -11,7 +11,10 @@
     "name":"Tops",
     "path":"folders/Objects/Tops.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_tops_parent",
+    "path":"objects/obj_tops_parent/obj_tops_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Top",
-    "path":"sprites/Top/Top.yy",
+    "name":"Top_4",
+    "path":"sprites/Top_4/Top_4.yy",
   },
   "spriteMaskId":null,
   "visible":true,

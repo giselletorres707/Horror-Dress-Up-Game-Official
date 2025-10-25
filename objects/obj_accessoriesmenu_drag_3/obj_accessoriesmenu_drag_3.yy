@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Bracelet",
-    "path":"sprites/Bracelet/Bracelet.yy",
+    "name":"Accessory",
+    "path":"sprites/Accessory/Accessory.yy",
   },
   "spriteMaskId":null,
   "visible":true,
