@@ -11,7 +11,10 @@
     "name":"Hair",
     "path":"folders/Objects/Hair.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_hair_parent",
+    "path":"objects/obj_hair_parent/obj_hair_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Hair",
-    "path":"sprites/Hair/Hair.yy",
+    "name":"Hair_4",
+    "path":"sprites/Hair_4/Hair_4.yy",
   },
   "spriteMaskId":null,
   "visible":true,

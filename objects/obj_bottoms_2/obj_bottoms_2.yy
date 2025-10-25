@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Bottoms2",
-    "path":"sprites/Bottoms2/Bottoms2.yy",
+    "name":"Bottoms_2",
+    "path":"sprites/Bottoms_2/Bottoms_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

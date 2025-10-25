@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Fullbody",
-    "path":"sprites/Fullbody/Fullbody.yy",
+    "name":"Fullbody_7",
+    "path":"sprites/Fullbody_7/Fullbody_7.yy",
   },
   "spriteMaskId":null,
   "visible":true,

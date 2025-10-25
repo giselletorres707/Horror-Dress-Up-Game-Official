@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"shoes",
-    "path":"sprites/shoes/shoes.yy",
+    "name":"shoes_7",
+    "path":"sprites/shoes_7/shoes_7.yy",
   },
   "spriteMaskId":null,
   "visible":true,

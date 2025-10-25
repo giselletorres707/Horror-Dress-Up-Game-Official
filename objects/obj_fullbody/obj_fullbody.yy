@@ -11,7 +11,10 @@
     "name":"Full Body",
     "path":"folders/Objects/Full Body.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_fullbody_parent",
+    "path":"objects/obj_fullbody_parent/obj_fullbody_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

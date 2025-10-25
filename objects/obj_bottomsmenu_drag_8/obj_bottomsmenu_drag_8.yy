@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Bottoms",
-    "path":"sprites/Bottoms/Bottoms.yy",
+    "name":"Bottoms_8",
+    "path":"sprites/Bottoms_8/Bottoms_8.yy",
   },
   "spriteMaskId":null,
   "visible":true,

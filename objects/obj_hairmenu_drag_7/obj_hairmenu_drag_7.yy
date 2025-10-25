@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Hair",
-    "path":"sprites/Hair/Hair.yy",
+    "name":"Hair_7",
+    "path":"sprites/Hair_7/Hair_7.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -5,7 +5,7 @@ if (is_dragging) {
         instance_create_layer(obj_body.x, obj_body.y, "Instances", obj_bottoms_8);
 		
 with (obj_bottoms_parent) instance_destroy();
-instance_create_layer(obj_body.x, obj_body.y, "Instances", obj_bottoms);
+instance_create_layer(obj_body.x, obj_body.y, "Instances", obj_bottoms_8);
 
     }
 

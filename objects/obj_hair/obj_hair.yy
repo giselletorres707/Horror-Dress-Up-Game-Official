@@ -11,7 +11,10 @@
     "name":"Hair",
     "path":"folders/Objects/Hair.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_hair_parent",
+    "path":"objects/obj_hair_parent/obj_hair_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
