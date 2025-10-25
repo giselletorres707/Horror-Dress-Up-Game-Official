@@ -4,7 +4,6 @@ if (obj_bottomsmenu_3.visible) {
         is_dragging = true;
     }
 
-    // Follow mouse while dragging
     if (is_dragging) {
         x = mouse_x;
         y = mouse_y;

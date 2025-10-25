@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"Top",
   "bboxMode":0,
-  "bbox_bottom":619,
+  "bbox_bottom":581,
   "bbox_left":626,
   "bbox_right":831,
   "bbox_top":399,

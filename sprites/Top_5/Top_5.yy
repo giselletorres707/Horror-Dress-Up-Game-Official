@@ -3,7 +3,7 @@
   "%Name":"Top_5",
   "bboxMode":0,
   "bbox_bottom":588,
-  "bbox_left":595,
+  "bbox_left":621,
   "bbox_right":826,
   "bbox_top":406,
   "collisionKind":1,
