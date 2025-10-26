@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"dollbody",
-    "path":"sprites/dollbody/dollbody.yy",
+    "name":"dollbody_1",
+    "path":"sprites/dollbody_1/dollbody_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
