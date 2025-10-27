@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":703,
   "bbox_left":0,
-  "bbox_right":962,
+  "bbox_right":955,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"4186c8fa-ca28-4768-b9d8-f06cb730e13c","name":"4186c8fa-ca28-4768-b9d8-f06cb730e13c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"6b588357-38f8-41bb-84b4-f05afed6fba6","name":"6b588357-38f8-41bb-84b4-f05afed6fba6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":704,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"cd815b7c-dc01-418a-ad82-1501171d0b0b","blendMode":0,"displayName":"default","isLocked":false,"name":"cd815b7c-dc01-418a-ad82-1501171d0b0b","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"a38d3804-92a5-4f41-b717-f0345ab09fe4","blendMode":0,"displayName":"default","isLocked":false,"name":"a38d3804-92a5-4f41-b717-f0345ab09fe4","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Room",
   "nineSlice":null,
@@ -71,8 +71,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4186c8fa-ca28-4768-b9d8-f06cb730e13c","path":"sprites/Room/Room.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"8b1492be-b03e-435b-b5c5-c5c597823f52","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6b588357-38f8-41bb-84b4-f05afed6fba6","path":"sprites/Room/Room.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"f1433bf9-58c6-472a-9bed-6677beba3f2c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
