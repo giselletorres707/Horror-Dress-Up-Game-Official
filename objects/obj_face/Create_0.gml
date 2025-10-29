@@ -1,3 +1,5 @@
 x = obj_body.x + 0;
 y = obj_body.y - 320;
 depth = -21; 
+
+//assign values to depth for scoring on body
