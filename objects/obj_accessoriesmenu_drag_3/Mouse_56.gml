@@ -9,3 +9,5 @@ instance_create_layer(obj_body.x, obj_body.y, "Instances", obj_accessories_3);
 
     instance_destroy();
 }
+
+//Creates a permanent object when dropped on the body
