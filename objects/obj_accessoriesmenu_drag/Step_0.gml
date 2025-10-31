@@ -12,3 +12,7 @@ if (obj_accessoriesmenu.visible) {
 } else {
     instance_destroy();
 }
+
+
+//dragging motion following m//dragging motion following mouse when button is visible
+//disappears when not draggingouse
