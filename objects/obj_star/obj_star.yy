@@ -1,18 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"objectstar",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_star",
+  "eventList":[],
   "managed":true,
-  "name":"objectstar",
+  "name":"obj_star",
   "overriddenProperties":[],
   "parent":{
     "name":"Scoring System",
     "path":"folders/Scoring System.yy",
   },
   "parentObjectId":null,
-  "persistent":false,
+  "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"scoringstar",
-    "path":"sprites/scoringstar/scoringstar.yy",
+    "name":"star",
+    "path":"sprites/star/star.yy",
   },
   "spriteMaskId":null,
   "visible":true,
