@@ -6,8 +6,8 @@
   "name":"obj_prototypebg_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Cutesy Dress Up",
+    "path":"folders/Objects/Cutesy Dress Up.yy",
   },
   "parentObjectId":null,
   "persistent":false,
