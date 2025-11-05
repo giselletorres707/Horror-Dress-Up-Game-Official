@@ -32,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"shoes_2",
-    "path":"sprites/shoes_2/shoes_2.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":{
     "name":"shoes",
     "path":"sprites/shoes/shoes.yy",

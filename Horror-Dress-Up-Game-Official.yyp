@@ -50,7 +50,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.1.193",
+    "IDEVersion":"2024.14.0.207",
   },
   "name":"Horror-Dress-Up-Game-Official",
   "resources":[
@@ -303,7 +303,6 @@
     {"id":{"name":"HorrorBackgroundWireframe","path":"sprites/HorrorBackgroundWireframe/HorrorBackgroundWireframe.yy",},},
     {"id":{"name":"HorrorWarningLabel","path":"sprites/HorrorWarningLabel/HorrorWarningLabel.yy",},},
     {"id":{"name":"Room","path":"sprites/Room/Room.yy",},},
-    {"id":{"name":"shoes_2","path":"sprites/shoes_2/shoes_2.yy",},},
     {"id":{"name":"shoes_3","path":"sprites/shoes_3/shoes_3.yy",},},
     {"id":{"name":"shoes_4","path":"sprites/shoes_4/shoes_4.yy",},},
     {"id":{"name":"shoes_5","path":"sprites/shoes_5/shoes_5.yy",},},
