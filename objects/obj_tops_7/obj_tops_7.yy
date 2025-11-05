@@ -15,7 +15,7 @@
     "name":"obj_tops_parent",
     "path":"objects/obj_tops_parent/obj_tops_parent.yy",
   },
-  "persistent":false,
+  "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
