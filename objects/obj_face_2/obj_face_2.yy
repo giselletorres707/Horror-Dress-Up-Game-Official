@@ -6,12 +6,17 @@
   ],
   "managed":true,
   "name":"obj_face_2",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_clothingitem","path":"objects/obj_clothingitem/obj_clothingitem.yy",},"propertyId":{"name":"theme","path":"objects/obj_clothingitem/obj_clothingitem.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"casual",},
+  ],
   "parent":{
     "name":"Face",
     "path":"folders/Objects/Face.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_face_parent",
+    "path":"objects/obj_face_parent/obj_face_parent.yy",
+  },
   "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
