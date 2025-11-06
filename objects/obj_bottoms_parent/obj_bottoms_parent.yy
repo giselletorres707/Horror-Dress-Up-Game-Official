@@ -5,7 +5,7 @@
   "managed":true,
   "name":"obj_bottoms_parent",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_clothingitem","path":"objects/obj_clothingitem/obj_clothingitem.yy",},"propertyId":{"name":"category","path":"objects/obj_clothingitem/obj_clothingitem.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"bottoms",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_clothingitem","path":"objects/obj_clothingitem/obj_clothingitem.yy",},"propertyId":{"name":"category","path":"objects/obj_clothingitem/obj_clothingitem.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"bottom",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_clothingitem","path":"objects/obj_clothingitem/obj_clothingitem.yy",},"propertyId":{"name":"score","path":"objects/obj_clothingitem/obj_clothingitem.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"8",},
   ],
   "parent":{
