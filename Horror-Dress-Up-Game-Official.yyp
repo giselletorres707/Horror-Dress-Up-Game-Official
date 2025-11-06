@@ -256,6 +256,7 @@
     {"id":{"name":"ScoringSystem","path":"objects/ScoringSystem/ScoringSystem.yy",},},
     {"id":{"name":"DressUpRoom","path":"rooms/DressUpRoom/DressUpRoom.yy",},},
     {"id":{"name":"HorrorRoom","path":"rooms/HorrorRoom/HorrorRoom.yy",},},
+    {"id":{"name":"ScoringRoom","path":"rooms/ScoringRoom/ScoringRoom.yy",},},
     {"id":{"name":"Accessory_2","path":"sprites/Accessory_2/Accessory_2.yy",},},
     {"id":{"name":"Accessory_3","path":"sprites/Accessory_3/Accessory_3.yy",},},
     {"id":{"name":"Accessory_4","path":"sprites/Accessory_4/Accessory_4.yy",},},
@@ -276,6 +277,7 @@
     {"id":{"name":"dollbodu_official","path":"sprites/dollbodu_official/dollbodu_official.yy",},},
     {"id":{"name":"dollbody_1","path":"sprites/dollbody_1/dollbody_1.yy",},},
     {"id":{"name":"dollbody","path":"sprites/dollbody/dollbody.yy",},},
+    {"id":{"name":"done_button","path":"sprites/done_button/done_button.yy",},},
     {"id":{"name":"Face_2","path":"sprites/Face_2/Face_2.yy",},},
     {"id":{"name":"Face_3","path":"sprites/Face_3/Face_3.yy",},},
     {"id":{"name":"Face_4","path":"sprites/Face_4/Face_4.yy",},},
@@ -392,6 +394,7 @@
     {"id":{"name":"spr_topsmenu","path":"sprites/spr_topsmenu/spr_topsmenu.yy",},},
     {"id":{"name":"spr_warningbloodmeter","path":"sprites/spr_warningbloodmeter/spr_warningbloodmeter.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Sprite148","path":"sprites/Sprite148/Sprite148.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"star","path":"sprites/star/star.yy",},},
     {"id":{"name":"Top_2","path":"sprites/Top_2/Top_2.yy",},},
@@ -409,6 +412,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"DressUpRoom","path":"rooms/DressUpRoom/DressUpRoom.yy",},},
     {"roomId":{"name":"HorrorRoom","path":"rooms/HorrorRoom/HorrorRoom.yy",},},
+    {"roomId":{"name":"ScoringRoom","path":"rooms/ScoringRoom/ScoringRoom.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
