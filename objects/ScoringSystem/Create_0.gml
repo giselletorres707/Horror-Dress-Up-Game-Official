@@ -9,12 +9,6 @@ global.clothes = {
 	face: pointer_null
 }
 
-function set_score(score)
-{
-	global.score = score
-	update_score_ui(score)
-}
-
 function update_score_ui(score)
 { 
 	var stars_ids = layer_get_all_elements("stars")
@@ -37,8 +31,6 @@ function update_score_ui(score)
 		show_debug_message(object_get_name(stars[i].object_index))
 	}
 }
-
-update_score_ui(0)
 
 /// @function set_clothing_item(clothing_item)
 /// @param {string} clothing_item the clothing item
