@@ -1,1 +1,2 @@
 visible = false;
+audio_play_sound(snd_crumbling, 1, false);

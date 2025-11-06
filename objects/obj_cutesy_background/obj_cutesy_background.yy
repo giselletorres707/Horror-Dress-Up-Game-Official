@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_title",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_cutesy_background",
+  "eventList":[],
   "managed":true,
-  "name":"obj_title",
+  "name":"obj_cutesy_background",
   "overriddenProperties":[],
   "parent":{
-    "name":"MainMenu",
-    "path":"folders/Objects/MainMenu.yy",
+    "name":"Cutesy Dress Up",
+    "path":"folders/Objects/Cutesy Dress Up.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Title",
-    "path":"sprites/Title/Title.yy",
+    "name":"Sprite154",
+    "path":"sprites/Sprite154/Sprite154.yy",
   },
   "spriteMaskId":null,
   "visible":true,
