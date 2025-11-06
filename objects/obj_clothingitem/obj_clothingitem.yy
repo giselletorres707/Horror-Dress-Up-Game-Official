@@ -1,7 +1,10 @@
 {
   "$GMObject":"",
   "%Name":"obj_clothingitem",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_body","path":"objects/obj_body/obj_body.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_clothingitem",
   "overriddenProperties":[],
@@ -26,7 +29,7 @@
   "properties":[
     {"$GMObjectProperty":"v2","%Name":"category","filters":[],"listItems":[],"multiselect":false,"name":"category","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"none","varType":2,},
     {"$GMObjectProperty":"v2","%Name":"score","filters":[],"listItems":[],"multiselect":false,"name":"score","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
-    {"$GMObjectProperty":"v2","%Name":"theme","filters":[],"listItems":[],"multiselect":false,"name":"theme","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"theme","filters":[],"listItems":[],"multiselect":false,"name":"theme","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"none","varType":2,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
