@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_prototypebg",
-  "eventList":[],
+  "%Name":"obj_start_button",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_prototypebg",
+  "name":"obj_start_button",
   "overriddenProperties":[],
   "parent":{
-    "name":"UI",
-    "path":"folders/Objects/UI.yy",
+    "name":"MainMenu",
+    "path":"folders/MainMenu.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_prototypebg",
-    "path":"sprites/spr_prototypebg/spr_prototypebg.yy",
+    "name":"spr_start",
+    "path":"sprites/spr_start/spr_start.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_prototypebg",
-  "eventList":[],
+  "%Name":"obj_envelope",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_prototypebg",
+  "name":"obj_envelope",
   "overriddenProperties":[],
   "parent":{
-    "name":"UI",
-    "path":"folders/Objects/UI.yy",
+    "name":"Narrative Elements",
+    "path":"folders/Objects/Narrative Elements.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_prototypebg",
-    "path":"sprites/spr_prototypebg/spr_prototypebg.yy",
+    "name":"spr_envelope",
+    "path":"sprites/spr_envelope/spr_envelope.yy",
   },
   "spriteMaskId":null,
   "visible":true,

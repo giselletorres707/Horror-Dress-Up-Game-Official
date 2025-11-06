@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_prototypebg",
+  "%Name":"obj_background_2",
   "eventList":[],
   "managed":true,
-  "name":"obj_prototypebg",
+  "name":"obj_background_2",
   "overriddenProperties":[],
   "parent":{
     "name":"UI",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_prototypebg",
-    "path":"sprites/spr_prototypebg/spr_prototypebg.yy",
+    "name":"Room",
+    "path":"sprites/Room/Room.yy",
   },
   "spriteMaskId":null,
   "visible":true,

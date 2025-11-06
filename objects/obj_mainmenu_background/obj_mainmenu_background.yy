@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_prototypebg",
+  "%Name":"obj_mainmenu_background",
   "eventList":[],
   "managed":true,
-  "name":"obj_prototypebg",
+  "name":"obj_mainmenu_background",
   "overriddenProperties":[],
   "parent":{
-    "name":"UI",
-    "path":"folders/Objects/UI.yy",
+    "name":"MainMenu",
+    "path":"folders/MainMenu.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_prototypebg",
-    "path":"sprites/spr_prototypebg/spr_prototypebg.yy",
+    "name":"Sprite137",
+    "path":"sprites/Sprite137/Sprite137.yy",
   },
   "spriteMaskId":null,
   "visible":true,
