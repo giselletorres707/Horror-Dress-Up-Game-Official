@@ -1,19 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"ScoringSystem",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_cutesy_background",
+  "eventList":[],
   "managed":true,
-  "name":"ScoringSystem",
+  "name":"obj_cutesy_background",
   "overriddenProperties":[],
   "parent":{
-    "name":"Scoring System",
-    "path":"folders/Scoring System.yy",
+    "name":"Cutesy Dress Up",
+    "path":"folders/Objects/Cutesy Dress Up.yy",
   },
   "parentObjectId":null,
-  "persistent":true,
+  "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -30,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite154",
+    "path":"sprites/Sprite154/Sprite154.yy",
+  },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

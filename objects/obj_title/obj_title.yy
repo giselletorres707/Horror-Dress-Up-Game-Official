@@ -1,19 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"ScoringSystem",
+  "%Name":"obj_title",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"ScoringSystem",
+  "name":"obj_title",
   "overriddenProperties":[],
   "parent":{
-    "name":"Scoring System",
-    "path":"folders/Scoring System.yy",
+    "name":"MainMenu",
+    "path":"folders/Objects/MainMenu.yy",
   },
   "parentObjectId":null,
-  "persistent":true,
+  "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -30,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Title",
+    "path":"sprites/Title/Title.yy",
+  },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
