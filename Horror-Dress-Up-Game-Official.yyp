@@ -404,6 +404,7 @@
     {"id":{"name":"spr_fullbodymenu_7","path":"sprites/spr_fullbodymenu_7/spr_fullbodymenu_7.yy",},},
     {"id":{"name":"spr_fullbodymenu_8","path":"sprites/spr_fullbodymenu_8/spr_fullbodymenu_8.yy",},},
     {"id":{"name":"spr_fullbodymenu","path":"sprites/spr_fullbodymenu/spr_fullbodymenu.yy",},},
+    {"id":{"name":"spr_gothic_letter","path":"sprites/spr_gothic_letter/spr_gothic_letter.yy",},},
     {"id":{"name":"spr_hairbutton","path":"sprites/spr_hairbutton/spr_hairbutton.yy",},},
     {"id":{"name":"spr_hairmenu_2","path":"sprites/spr_hairmenu_2/spr_hairmenu_2.yy",},},
     {"id":{"name":"spr_hairmenu_3","path":"sprites/spr_hairmenu_3/spr_hairmenu_3.yy",},},

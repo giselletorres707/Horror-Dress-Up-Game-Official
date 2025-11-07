@@ -1,5 +1,5 @@
 global.letters = [
-	{ sprite: spr_test_letter, theme: "gothic" },
+	{ sprite: spr_gothic_letter, theme: "gothic" },
 ]
 
 var letter = global.letters[floor(random(array_length(global.letters)))]
