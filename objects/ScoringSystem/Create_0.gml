@@ -9,6 +9,28 @@ global.clothes = {
 	face: pointer_null
 }
 
+function update_score_ui(score)
+{ 
+	var stars_ids = layer_get_all_elements("stars")
+	var stars = array_create(5)
+	for(var i = 0; i < 5; i++) 
+	{
+		stars[i] = layer_instance_get_instance(stars_ids[i])
+	}
+	for (var i=0; i < 5; i+=1)
+	{
+        stars[i].image_speed = 0
+		if (i + 1 <= score / 5)
+		{
+			stars[i].image_index = 1
+		}
+		else
+		{
+			stars[i].image_index = 0
+		}
+		show_debug_message(object_get_name(stars[i].object_index))
+	}
+}
 
 /// @function set_clothing_item(clothing_item)
 /// @param {string} clothing_item the clothing item

@@ -1,3 +1,4 @@
+
 if(room == ScoringRoom) {
 	struct_foreach(global.clothes, function(category, clothing_item)
 	{
@@ -7,4 +8,3 @@ if(room == ScoringRoom) {
 	});
 	update_score_ui(global.score);
 }
-
