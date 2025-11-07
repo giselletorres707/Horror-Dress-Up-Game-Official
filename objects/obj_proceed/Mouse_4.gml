@@ -1,2 +1,1 @@
-room_goto();
-//switches room
+room_goto_next()
