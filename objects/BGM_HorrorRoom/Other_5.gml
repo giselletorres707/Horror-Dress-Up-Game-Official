@@ -1,0 +1,1 @@
+audio_pause_sound(bgm_Operation_You_Will_Be_Beautiful)

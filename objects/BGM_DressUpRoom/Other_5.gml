@@ -1,0 +1,1 @@
+audio_pause_sound(bgm_Dressing_For_Others)

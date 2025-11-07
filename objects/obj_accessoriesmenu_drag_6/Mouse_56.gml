@@ -3,7 +3,7 @@ if (is_dragging) {
 
     if (position_meeting(mouse_x, mouse_y, obj_body)) {
 		with (obj_accessories_parent) instance_destroy();
-
+audio_play_sound(sfx_accessory_click, 1, false);
 instance_create_layer(obj_body.x, obj_body.y, "Instances", obj_accessories_6);
     }
 
@@ -11,3 +11,4 @@ instance_create_layer(obj_body.x, obj_body.y, "Instances", obj_accessories_6);
 }
 
 //Creates a permanent object when dropped on the body
+
