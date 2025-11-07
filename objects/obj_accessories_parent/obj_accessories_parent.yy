@@ -4,12 +4,18 @@
   "eventList":[],
   "managed":true,
   "name":"obj_accessories_parent",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_clothingitem","path":"objects/obj_clothingitem/obj_clothingitem.yy",},"propertyId":{"name":"score","path":"objects/obj_clothingitem/obj_clothingitem.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"3",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_clothingitem","path":"objects/obj_clothingitem/obj_clothingitem.yy",},"propertyId":{"name":"category","path":"objects/obj_clothingitem/obj_clothingitem.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"accessory",},
+  ],
   "parent":{
     "name":"Accessories",
     "path":"folders/Objects/Accessories.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_clothingitem",
+    "path":"objects/obj_clothingitem/obj_clothingitem.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
