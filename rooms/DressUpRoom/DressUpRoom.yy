@@ -158,6 +158,7 @@
     {"name":"inst_43EF9B74","path":"rooms/DressUpRoom/DressUpRoom.yy",},
     {"name":"inst_76698C53","path":"rooms/DressUpRoom/DressUpRoom.yy",},
     {"name":"inst_16453920","path":"rooms/DressUpRoom/DressUpRoom.yy",},
+    {"name":"inst_10ED4CD7","path":"rooms/DressUpRoom/DressUpRoom.yy",},
   ],
   "isDnd":true,
   "layers":[
@@ -167,6 +168,7 @@
         {"$GMRInstance":"v4","%Name":"inst_515E2034","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":true,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_515E2034","objectId":{"name":"obj_star","path":"objects/obj_star/obj_star.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1088.0,"y":32.0,},
         {"$GMRInstance":"v4","%Name":"inst_34644CB2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":true,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_34644CB2","objectId":{"name":"obj_star","path":"objects/obj_star/obj_star.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1216.0,"y":32.0,},
         {"$GMRInstance":"v4","%Name":"inst_2BEA93CD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":true,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2BEA93CD","objectId":{"name":"obj_star","path":"objects/obj_star/obj_star.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1344.0,"y":32.0,},
+        {"$GMRInstance":"v4","%Name":"inst_10ED4CD7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_10ED4CD7","objectId":{"name":"BGM_DressUpRoom","path":"objects/BGM_DressUpRoom/BGM_DressUpRoom.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2080.0,"y":0.0,},
       ],"layers":[],"name":"stars","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"score_ui","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_914A364","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_914A364","objectId":{"name":"ScoringSystem","path":"objects/ScoringSystem/ScoringSystem.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-17.081284,"scaleX":1.0,"scaleY":1.0,"x":928.0,"y":224.0,},

@@ -166,3 +166,5 @@ with (obj_shoesmenu_7) {
 with (obj_shoesmenu_8) {
 	visible = false;
 }
+audio_stop_sound(sfx_drawers);
+audio_play_sound(sfx_drawers, 1, 0);

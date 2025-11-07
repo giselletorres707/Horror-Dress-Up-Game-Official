@@ -1,2 +1,2 @@
-audio_play_sound(snd_menu_music, 1, true);
+audio_play_sound(bgm_Cut_to_Fit, 1, true);
 //plays music

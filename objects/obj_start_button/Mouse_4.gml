@@ -1,8 +1,10 @@
 room_goto(LevelsPage);
 //switches room
 
-audio_stop_sound(snd_menu_music);
+audio_pause_sound(bgm_Cut_to_Fit);
 //stops music
 
-audio_play_sound(snd_start, 1, false);
+audio_play_sound(sfx_Start_Button, 1, false);
 //sound effect
+
+mouse_clear(mb_any);
