@@ -1,4 +1,4 @@
-room_goto(LevelsPage);
+room_goto_next()
 //switches room
 
 audio_pause_sound(bgm_Cut_to_Fit);

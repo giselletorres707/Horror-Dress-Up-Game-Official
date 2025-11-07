@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"steadyheartratemonitorloop1min_6274",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":60.99592,
+  "exportDir":"",
+  "name":"steadyheartratemonitorloop1min_6274",
+  "parent":{
+    "name":"Horror-Dress-Up-Game-Official",
+    "path":"Horror-Dress-Up-Game-Official.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"steadyheartratemonitorloop1min_6274.mp3",
+  "volume":1.0,
+}
