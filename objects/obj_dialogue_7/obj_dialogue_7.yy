@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_dialogue",
+  "%Name":"obj_dialogue_7",
   "eventList":[],
   "managed":true,
-  "name":"obj_dialogue",
+  "name":"obj_dialogue_7",
   "overriddenProperties":[],
   "parent":{
     "name":"Heartbeat Narrative",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_dialogue_1",
-    "path":"sprites/spr_dialogue_1/spr_dialogue_1.yy",
+    "name":"spr_dialogue_7",
+    "path":"sprites/spr_dialogue_7/spr_dialogue_7.yy",
   },
   "spriteMaskId":null,
   "visible":true,

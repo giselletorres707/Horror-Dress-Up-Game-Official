@@ -58,8 +58,8 @@
   },
   "origin":4,
   "parent":{
-    "name":"Narrative Elements",
-    "path":"folders/Sprites/Narrative Elements.yy",
+    "name":"Heartbeat Page",
+    "path":"folders/Sprites/Heartbeat Page.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

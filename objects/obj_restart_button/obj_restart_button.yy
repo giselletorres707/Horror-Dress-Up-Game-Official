@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_dialogue",
-  "eventList":[],
+  "%Name":"obj_restart_button",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_dialogue",
+  "name":"obj_restart_button",
   "overriddenProperties":[],
   "parent":{
-    "name":"Heartbeat Narrative",
-    "path":"folders/Objects/Heartbeat Narrative.yy",
+    "name":"Scoring System",
+    "path":"folders/Scoring System.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_dialogue_1",
-    "path":"sprites/spr_dialogue_1/spr_dialogue_1.yy",
+    "name":"Start",
+    "path":"sprites/Start/Start.yy",
   },
   "spriteMaskId":null,
   "visible":true,
