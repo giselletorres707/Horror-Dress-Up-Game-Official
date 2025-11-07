@@ -1,2 +1,2 @@
-room_goto(LevelsPage);
+room_goto();
 //switches room
