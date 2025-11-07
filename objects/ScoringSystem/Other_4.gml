@@ -4,7 +4,10 @@ if(room == ScoringRoom) {
 	{
 		if (not clothing_item or clothing_item.theme != global.theme)
 			return;
-		global.score += clothing_item.score;
+		if (category == "fullbody")
+			global.score += clothing_item.score / 2;
+		else
+			global.score += clothing_item.score
 	});
 	update_score_ui(global.score);
 }
