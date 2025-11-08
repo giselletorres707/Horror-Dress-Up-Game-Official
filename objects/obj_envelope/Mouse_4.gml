@@ -4,3 +4,4 @@ with (obj_letter)
     depth = -10000;      
 }
 
+//makes letter in dress up room reappear

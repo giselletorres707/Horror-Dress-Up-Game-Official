@@ -9,3 +9,4 @@ dialogues = [
 ];
 current_index = 0;
 
+//array of dialogue in order

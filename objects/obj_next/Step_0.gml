@@ -14,3 +14,6 @@ if (mouse_check_button_pressed(mb_left)) {
 		instance_destroy(); 
     }
 }
+
+//shows the dialogue in order, switches when clicked
+//hides when proceed button is visible
