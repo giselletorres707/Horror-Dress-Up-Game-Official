@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_dialogue_5",
+  "%Name":"obj_next",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_dialogue_5",
+  "name":"obj_next",
   "overriddenProperties":[],
   "parent":{
     "name":"Heartbeat Narrative",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_dialogue_5",
-    "path":"sprites/spr_dialogue_5/spr_dialogue_5.yy",
+    "name":"next",
+    "path":"sprites/next/next.yy",
   },
   "spriteMaskId":null,
   "visible":true,
