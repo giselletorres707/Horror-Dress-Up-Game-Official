@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_letter_2",
+  "%Name":"obj_paper_stack",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_letter_2",
+  "name":"obj_paper_stack",
   "overriddenProperties":[],
   "parent":{
     "name":"Scoring System",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"letter_review",
-    "path":"sprites/letter_review/letter_review.yy",
+    "name":"paper_stack",
+    "path":"sprites/paper_stack/paper_stack.yy",
   },
   "spriteMaskId":null,
   "visible":true,

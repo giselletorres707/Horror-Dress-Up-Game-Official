@@ -9,8 +9,8 @@
   "name":"obj_envelope",
   "overriddenProperties":[],
   "parent":{
-    "name":"Narrative Elements",
-    "path":"folders/Objects/Narrative Elements.yy",
+    "name":"Letters",
+    "path":"folders/Objects/Letters.yy",
   },
   "parentObjectId":null,
   "persistent":false,

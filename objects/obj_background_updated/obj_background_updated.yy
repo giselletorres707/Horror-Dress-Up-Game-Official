@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_letter_2",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_background_updated",
+  "eventList":[],
   "managed":true,
-  "name":"obj_letter_2",
+  "name":"obj_background_updated",
   "overriddenProperties":[],
   "parent":{
-    "name":"Scoring System",
-    "path":"folders/Scoring System.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"letter_review",
-    "path":"sprites/letter_review/letter_review.yy",
+    "name":"spr_background",
+    "path":"sprites/spr_background/spr_background.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -8,8 +8,8 @@
   "name":"obj_envelope_2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Narrative Elements",
-    "path":"folders/Objects/Narrative Elements.yy",
+    "name":"Scoring System",
+    "path":"folders/Scoring System.yy",
   },
   "parentObjectId":null,
   "persistent":false,

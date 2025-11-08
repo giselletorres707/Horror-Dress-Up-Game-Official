@@ -154,6 +154,7 @@
     {"name":"inst_572AB66C","path":"rooms/DressUpRoom/DressUpRoom.yy",},
     {"name":"inst_3ED55FFE","path":"rooms/DressUpRoom/DressUpRoom.yy",},
     {"name":"inst_10ED4CD7","path":"rooms/DressUpRoom/DressUpRoom.yy",},
+    {"name":"inst_562C671E","path":"rooms/DressUpRoom/DressUpRoom.yy",},
   ],
   "isDnd":true,
   "layers":[
@@ -319,8 +320,11 @@
         {"$GMRInstance":"v4","%Name":"inst_2F12E32B","colour":4294967295,"frozen":true,"hasCreationCode":false,"ignore":true,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2F12E32B","objectId":{"name":"obj_topsmenu_6","path":"objects/obj_topsmenu_6/obj_topsmenu_6.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.2286758,"scaleY":2.203125,"x":1665.2402,"y":675.0,},
         {"$GMRInstance":"v4","%Name":"inst_4FF1D8FB","colour":4294967295,"frozen":true,"hasCreationCode":false,"ignore":true,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4FF1D8FB","objectId":{"name":"obj_topsmenu_7","path":"objects/obj_topsmenu_7/obj_topsmenu_7.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.1240273,"scaleY":2.25,"x":1511.9377,"y":864.0,},
         {"$GMRInstance":"v4","%Name":"inst_142860FA","colour":4294967295,"frozen":true,"hasCreationCode":false,"ignore":true,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_142860FA","objectId":{"name":"obj_topsmenu_8","path":"objects/obj_topsmenu_8/obj_topsmenu_8.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.2286758,"scaleY":2.25,"x":1665.2402,"y":864.0,},
-      ],"layers":[],"name":"Instances_Backup","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":652461282,"depth":600,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+      ],"layers":[],"name":"Instances_Backup","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":false,},
+    {"$GMRInstanceLayer":"","%Name":"Backgroundimage","depth":600,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v4","%Name":"inst_562C671E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_562C671E","objectId":{"name":"obj_background_updated","path":"objects/obj_background_updated/obj_background_updated.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.8,"scaleY":0.8,"x":37.599976,"y":-14.400024,},
+      ],"layers":[],"name":"Backgroundimage","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":652461282,"depth":700,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "name":"DressUpRoom",
   "parent":{
