@@ -1,3 +1,27 @@
+with (obj_bottoms) {
+    visible = true;
+}
+with (obj_bottoms_2) {
+    visible = true;
+}
+with (obj_bottoms_3) {
+    visible = true;
+}
+with (obj_bottoms_4) {
+    visible = true;
+}
+with (obj_bottoms_5) {
+    visible = true;
+}
+with (obj_bottoms_6) {
+    visible = true;
+}
+with (obj_bottoms_7) {
+    visible = true;
+}
+with (obj_bottoms_8) {
+    visible = true;
+}
 with (obj_hairmenu) {
     visible = false;
 }

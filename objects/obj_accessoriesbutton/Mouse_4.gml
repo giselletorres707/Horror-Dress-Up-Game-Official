@@ -70,6 +70,30 @@ with (obj_topsmenu_7) {
 with (obj_topsmenu_8) {
     visible = false;
 }
+with (obj_bottoms) {
+    visible = false;
+}
+with (obj_bottoms_2) {
+    visible = false;
+}
+with (obj_bottoms_3) {
+    visible = false;
+}
+with (obj_bottoms_4) {
+    visible = false;
+}
+with (obj_bottoms_5) {
+    visible = false;
+}
+with (obj_bottoms_6) {
+    visible = false;
+}
+with (obj_bottoms_7) {
+    visible = false;
+}
+with (obj_bottoms_8) {
+    visible = false;
+}
 with (obj_bottomsmenu) {
     visible = false;
 }
