@@ -14,8 +14,8 @@
   "exportDir":"",
   "name":"snd_start",
   "parent":{
-    "name":"Horror-Dress-Up-Game-Official",
-    "path":"Horror-Dress-Up-Game-Official.yyp",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

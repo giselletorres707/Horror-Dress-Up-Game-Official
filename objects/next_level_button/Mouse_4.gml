@@ -1,0 +1,1 @@
+room_goto(Level2_dress_up_room)

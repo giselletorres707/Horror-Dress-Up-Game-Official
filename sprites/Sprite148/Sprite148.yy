@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Horror-Dress-Up-Game-Official",
-    "path":"Horror-Dress-Up-Game-Official.yyp",
+    "name":"misc.",
+    "path":"folders/misc..yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
