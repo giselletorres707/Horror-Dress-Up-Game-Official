@@ -1,3 +1,3 @@
 x = obj_body.x + 0;
-y = obj_body.y - 100;
+y = obj_body.y - 85;
 depth = -30; 
