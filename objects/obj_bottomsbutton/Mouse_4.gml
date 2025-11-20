@@ -1,50 +1,66 @@
 with (obj_bottoms) {
-    mode = "menu";
-	visible = true;
-    x = original_x;
-    y = original_y;
+	if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
 }
 with (obj_bottoms_2) {
-    visible = true;
-    mode = "menu";
-    x = original_x;
-    y = original_y;
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
 }
 with (obj_bottoms_3) {
-    mode = "menu";
-	visible = true;
-    x = original_x;
-    y = original_y;
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
 }
 with (obj_bottoms_4) {
-    mode = "menu";
-	visible = true;
-    x = original_x;
-    y = original_y;
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
 }
 with (obj_bottoms_5) {
-    mode = "menu";
-	visible = true;
-    x = original_x;
-    y = original_y;
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
 }
 with (obj_bottoms_6) {
-    mode = "menu";
-	visible = true;
-    x = original_x;
-    y = original_y;
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
 }
 with (obj_bottoms_7) {
-    mode = "menu";
-	visible = true;
-    x = original_x;
-    y = original_y;
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
 }
 with (obj_bottoms_8) {
-    mode = "menu";
-	visible = true;
-    x = original_x;
-    y = original_y;
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
 }
 with (obj_hairmenu) {
     visible = false;
