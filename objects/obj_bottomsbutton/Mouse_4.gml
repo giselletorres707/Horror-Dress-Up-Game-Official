@@ -1,26 +1,50 @@
 with (obj_bottoms) {
-    visible = true;
+    mode = "menu";
+	visible = true;
+    x = original_x;
+    y = original_y;
 }
 with (obj_bottoms_2) {
     visible = true;
+    mode = "menu";
+    x = original_x;
+    y = original_y;
 }
 with (obj_bottoms_3) {
-    visible = true;
+    mode = "menu";
+	visible = true;
+    x = original_x;
+    y = original_y;
 }
 with (obj_bottoms_4) {
-    visible = true;
+    mode = "menu";
+	visible = true;
+    x = original_x;
+    y = original_y;
 }
 with (obj_bottoms_5) {
-    visible = true;
+    mode = "menu";
+	visible = true;
+    x = original_x;
+    y = original_y;
 }
 with (obj_bottoms_6) {
-    visible = true;
+    mode = "menu";
+	visible = true;
+    x = original_x;
+    y = original_y;
 }
 with (obj_bottoms_7) {
-    visible = true;
+    mode = "menu";
+	visible = true;
+    x = original_x;
+    y = original_y;
 }
 with (obj_bottoms_8) {
-    visible = true;
+    mode = "menu";
+	visible = true;
+    x = original_x;
+    y = original_y;
 }
 with (obj_hairmenu) {
     visible = false;
