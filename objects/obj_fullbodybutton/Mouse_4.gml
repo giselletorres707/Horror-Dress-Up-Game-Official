@@ -62,6 +62,30 @@ with (obj_fullbody_8) {
 		y = original_y;
 	}
 }
+with (obj_hair) {
+    visible = false;
+}
+with (obj_hair_2) {
+    visible = false;
+}
+with (obj_hair_3) {
+    visible = false;
+}
+with (obj_hair_4) {
+    visible = false;
+}
+with (obj_hair_5) {
+    visible = false;
+}
+with (obj_hair_6) {
+    visible = false;
+}
+with (obj_hair_7) {
+    visible = false;
+}
+with (obj_hair_8) {
+    visible = false;
+}
 with (obj_hairmenu) {
     visible = false;
 }
