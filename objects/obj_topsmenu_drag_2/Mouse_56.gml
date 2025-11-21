@@ -15,12 +15,14 @@ if (is_dragging) {
         if (obj_body.current_top != noone && instance_exists(obj_body.current_top)) {
             instance_destroy(obj_body.current_top);
         }
-
-        // Tracks new bottoms
-        obj_body.current_top = new_top;
-
+		
 		// Removes any full-body clothing if necessary
-        with (obj_fullbody_parent) instance_destroy();
+        if (obj_body.current_fullbody != noone && instance_exists(obj_body.current_fullbody)) {
+            instance_destroy(obj_body.current_fullbody);
+        }
+		
+        // Tracks new top
+        obj_body.current_top = new_top;
     }
 
     // Destroys the drag preview
