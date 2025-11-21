@@ -1,1 +1,6 @@
-room_goto(Level2_dress_up_room)
+room_goto(LevelsPage)
+
+with (level_2_unlock)
+{
+      visible=true
+}
