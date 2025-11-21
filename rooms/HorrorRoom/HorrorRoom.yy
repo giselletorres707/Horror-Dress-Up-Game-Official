@@ -23,6 +23,7 @@
     {"name":"inst_6672F8D8","path":"rooms/HorrorRoom/HorrorRoom.yy",},
     {"name":"inst_324178BE","path":"rooms/HorrorRoom/HorrorRoom.yy",},
     {"name":"inst_56F7BFE3","path":"rooms/HorrorRoom/HorrorRoom.yy",},
+    {"name":"inst_59113676","path":"rooms/HorrorRoom/HorrorRoom.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -46,6 +47,7 @@
         {"$GMRInstance":"v4","%Name":"inst_710B1360","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":true,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_710B1360","objectId":{"name":"obj_warningbloodmeter","path":"objects/obj_warningbloodmeter/obj_warningbloodmeter.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.1706402,"scaleY":1.1430168,"x":256.0,"y":192.0,},
         {"$GMRInstance":"v4","%Name":"inst_23436513","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":true,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_23436513","objectId":{"name":"obj_blood","path":"objects/obj_blood/obj_blood.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.107778,"scaleY":2.2444444,"x":320.0,"y":390.0,},
         {"$GMRInstance":"v4","%Name":"inst_5460565C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5460565C","objectId":{"name":"obj_body","path":"objects/obj_body/obj_body.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.73,"scaleY":0.73,"x":1150.0,"y":600.0,},
+        {"$GMRInstance":"v4","%Name":"inst_59113676","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_59113676","objectId":{"name":"obj_bodypartsmenu","path":"objects/obj_bodypartsmenu/obj_bodypartsmenu.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.4984424,"scaleY":1.2347189,"x":288.0,"y":160.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"UI_Wireframes","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_71AB4E9A","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_71AB4E9A","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0706402,"scaleY":1.15,"spriteId":{"name":"HorrorBackgroundWireframe","path":"sprites/HorrorBackgroundWireframe/HorrorBackgroundWireframe.yy",},"x":1545.0,"y":150.0,},

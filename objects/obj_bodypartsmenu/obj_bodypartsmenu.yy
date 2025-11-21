@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_coverupbackground",
+  "%Name":"obj_bodypartsmenu",
   "eventList":[],
   "managed":true,
-  "name":"obj_coverupbackground",
+  "name":"obj_bodypartsmenu",
   "overriddenProperties":[],
   "parent":{
     "name":"Body Horror",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_bodypartsmenu",
+    "path":"sprites/spr_bodypartsmenu/spr_bodypartsmenu.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
