@@ -35,8 +35,8 @@
   ],
   "name":"Hearbeat",
   "parent":{
-    "name":"Horror-Dress-Up-Game-Official",
-    "path":"Horror-Dress-Up-Game-Official.yyp",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

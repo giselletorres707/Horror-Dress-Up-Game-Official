@@ -12,6 +12,8 @@
   "Folders":[
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"level2","folderPath":"folders/level2.yy","name":"level2","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"misc.","folderPath":"folders/misc..yy","name":"misc.","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Accessories","folderPath":"folders/Objects/Accessories.yy","name":"Accessories","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -68,6 +70,7 @@
     {"id":{"name":"BGM_HorrorRoom","path":"objects/BGM_HorrorRoom/BGM_HorrorRoom.yy",},},
     {"id":{"name":"DoneButton","path":"objects/DoneButton/DoneButton.yy",},},
     {"id":{"name":"LetterChooser","path":"objects/LetterChooser/LetterChooser.yy",},},
+    {"id":{"name":"next_level_button","path":"objects/next_level_button/next_level_button.yy",},},
     {"id":{"name":"obj_accessories_2","path":"objects/obj_accessories_2/obj_accessories_2.yy",},},
     {"id":{"name":"obj_accessories_3","path":"objects/obj_accessories_3/obj_accessories_3.yy",},},
     {"id":{"name":"obj_accessories_4","path":"objects/obj_accessories_4/obj_accessories_4.yy",},},
@@ -301,6 +304,7 @@
     {"id":{"name":"DressUpRoom","path":"rooms/DressUpRoom/DressUpRoom.yy",},},
     {"id":{"name":"Hearbeat","path":"rooms/Hearbeat/Hearbeat.yy",},},
     {"id":{"name":"HorrorRoom","path":"rooms/HorrorRoom/HorrorRoom.yy",},},
+    {"id":{"name":"Level2_dress_up_room","path":"rooms/Level2_dress_up_room/Level2_dress_up_room.yy",},},
     {"id":{"name":"LevelsPage","path":"rooms/LevelsPage/LevelsPage.yy",},},
     {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"id":{"name":"ScoringRoom","path":"rooms/ScoringRoom/ScoringRoom.yy",},},
@@ -517,6 +521,7 @@
     {"roomId":{"name":"DressUpRoom","path":"rooms/DressUpRoom/DressUpRoom.yy",},},
     {"roomId":{"name":"HorrorRoom","path":"rooms/HorrorRoom/HorrorRoom.yy",},},
     {"roomId":{"name":"ScoringRoom","path":"rooms/ScoringRoom/ScoringRoom.yy",},},
+    {"roomId":{"name":"Level2_dress_up_room","path":"rooms/Level2_dress_up_room/Level2_dress_up_room.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
