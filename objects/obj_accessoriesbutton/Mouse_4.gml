@@ -110,6 +110,30 @@ with (obj_hairmenu_7) {
 with (obj_hairmenu_8) {
     visible = false;
 }
+with (obj_face) {
+    visible = false;
+}
+with (obj_face_2) {
+    visible = false;
+}
+with (obj_face_3) {
+    visible = false;
+}
+with (obj_face_4) {
+    visible = false;
+}
+with (obj_face_5) {
+    visible = false;
+}
+with (obj_face_6) {
+    visible = false;
+}
+with (obj_face_7) {
+    visible = false;
+}
+with (obj_face_8) {
+    visible = false;
+}
 with (obj_facemenu) {
     visible = false;
 }
