@@ -1,7 +1,11 @@
-x = obj_body.x - 5;
-y = obj_body.y - 360;
-depth = -50;
-//Location where permanent clothing is dropped
-//layer where it appears
+mode = "menu";
 
-//check xy coords for body scoringears
+if (mode == "menu") {
+	visible = false;
+}
+
+equipped = false;
+original_x = x;
+original_y = y;
+
+depth = -20;

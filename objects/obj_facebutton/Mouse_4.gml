@@ -214,6 +214,30 @@ with (obj_fullbodymenu_7) {
 with (obj_fullbodymenu_8) {
     visible = false;
 }
+with (obj_accessories) {
+    visible = false;
+}
+with (obj_accessories_2) {
+    visible = false;
+}
+with (obj_accessories_3) {
+    visible = false;
+}
+with (obj_accessories_4) {
+    visible = false;
+}
+with (obj_accessories_5) {
+    visible = false;
+}
+with (obj_accessories_6) {
+    visible = false;
+}
+with (obj_accessories_7) {
+    visible = false;
+}
+with (obj_accessories_8) {
+    visible = false;
+}
 with (obj_accessoriesmenu) {
 	visible = false;
 }
