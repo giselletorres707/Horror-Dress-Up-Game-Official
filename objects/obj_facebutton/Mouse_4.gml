@@ -238,6 +238,30 @@ with (obj_accessoriesmenu_7) {
 with (obj_accessoriesmenu_8) {
     visible = false;
 }
+with (obj_shoes) {
+	visible = false;
+}
+with (obj_shoes_2) {
+	visible = false;
+}
+with (obj_shoes_3) {
+	visible = false;
+}
+with (obj_shoes_4) {
+	visible = false;
+}
+with (obj_shoes_5) {
+	visible = false;
+}
+with (obj_shoes_6) {
+	visible = false;
+}
+with (obj_shoes_7) {
+	visible = false;
+}
+with (obj_shoes_8) {
+	visible = false;
+}
 with (obj_shoesmenu) {
 	visible = false;
 }
