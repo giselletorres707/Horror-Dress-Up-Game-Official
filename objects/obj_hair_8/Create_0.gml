@@ -1,4 +1,12 @@
-x = obj_body.x + 0;
-y = obj_body.y - 255;
-depth = -30; 
+mode = "menu";
+
+if (mode == "menu") {
+	visible = false;
+}
+
+equipped = false;
+original_x = x;
+original_y = y;
+
+depth = -30;
 

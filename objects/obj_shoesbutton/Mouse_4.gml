@@ -1,3 +1,91 @@
+with (obj_shoes) {
+	if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
+}
+with (obj_shoes_2) {
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
+}
+with (obj_shoes_3) {
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
+}
+with (obj_shoes_4) {
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
+}
+with (obj_shoes_5) {
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
+}
+with (obj_shoes_6) {
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
+}
+with (obj_shoes_7) {
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
+}
+with (obj_shoes_8) {
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
+}
+with (obj_hair) {
+    visible = false;
+}
+with (obj_hair_2) {
+    visible = false;
+}
+with (obj_hair_3) {
+    visible = false;
+}
+with (obj_hair_4) {
+    visible = false;
+}
+with (obj_hair_5) {
+    visible = false;
+}
+with (obj_hair_6) {
+    visible = false;
+}
+with (obj_hair_7) {
+    visible = false;
+}
+with (obj_hair_8) {
+    visible = false;
+}
 with (obj_hairmenu) {
     visible = false;
 }
@@ -20,6 +108,30 @@ with (obj_hairmenu_7) {
     visible = false;
 }
 with (obj_hairmenu_8) {
+    visible = false;
+}
+with (obj_face) {
+    visible = false;
+}
+with (obj_face_2) {
+    visible = false;
+}
+with (obj_face_3) {
+    visible = false;
+}
+with (obj_face_4) {
+    visible = false;
+}
+with (obj_face_5) {
+    visible = false;
+}
+with (obj_face_6) {
+    visible = false;
+}
+with (obj_face_7) {
+    visible = false;
+}
+with (obj_face_8) {
     visible = false;
 }
 with (obj_facemenu) {
@@ -46,6 +158,30 @@ with (obj_facemenu_7) {
 with (obj_facemenu_8) {
     visible = false;
 }
+with (obj_tops) {
+    visible = false;
+}
+with (obj_tops_2) {
+    visible = false;
+}
+with (obj_tops_3) {
+    visible = false;
+}
+with (obj_tops_4) {
+    visible = false;
+}
+with (obj_tops_5) {
+    visible = false;
+}
+with (obj_tops_6) {
+    visible = false;
+}
+with (obj_tops_7) {
+    visible = false;
+}
+with (obj_tops_8) {
+    visible = false;
+}
 with (obj_topsmenu) {
     visible = false;
 }
@@ -68,6 +204,30 @@ with (obj_topsmenu_7) {
     visible = false;
 }
 with (obj_topsmenu_8) {
+    visible = false;
+}
+with (obj_bottoms) {
+    visible = false;
+}
+with (obj_bottoms_2) {
+    visible = false;
+}
+with (obj_bottoms_3) {
+    visible = false;
+}
+with (obj_bottoms_4) {
+    visible = false;
+}
+with (obj_bottoms_5) {
+    visible = false;
+}
+with (obj_bottoms_6) {
+    visible = false;
+}
+with (obj_bottoms_7) {
+    visible = false;
+}
+with (obj_bottoms_8) {
     visible = false;
 }
 with (obj_bottomsmenu) {
@@ -94,7 +254,30 @@ with (obj_bottomsmenu_7) {
 with (obj_bottomsmenu_8) {
     visible = false;
 }
-
+with (obj_fullbody) {
+    visible = false;
+}
+with (obj_fullbody_2) {
+    visible = false;
+}
+with (obj_fullbody_3) {
+    visible = false;
+}
+with (obj_fullbody_4) {
+    visible = false;
+}
+with (obj_fullbody_5) {
+    visible = false;
+}
+with (obj_fullbody_6) {
+    visible = false;
+}
+with (obj_fullbody_7) {
+    visible = false;
+}
+with (obj_fullbody_8) {
+    visible = false;
+}
 with (obj_fullbodymenu) {
     visible = false;
 }
@@ -117,6 +300,30 @@ with (obj_fullbodymenu_7) {
     visible = false;
 }
 with (obj_fullbodymenu_8) {
+    visible = false;
+}
+with (obj_accessories) {
+    visible = false;
+}
+with (obj_accessories_2) {
+    visible = false;
+}
+with (obj_accessories_3) {
+    visible = false;
+}
+with (obj_accessories_4) {
+    visible = false;
+}
+with (obj_accessories_5) {
+    visible = false;
+}
+with (obj_accessories_6) {
+    visible = false;
+}
+with (obj_accessories_7) {
+    visible = false;
+}
+with (obj_accessories_8) {
     visible = false;
 }
 with (obj_accessoriesmenu) {
