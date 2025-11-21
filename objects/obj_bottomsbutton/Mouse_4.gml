@@ -110,6 +110,30 @@ with (obj_facemenu_7) {
 with (obj_facemenu_8) {
     visible = false;
 }
+with (obj_tops) {
+    visible = false;
+}
+with (obj_tops_2) {
+    visible = false;
+}
+with (obj_tops_3) {
+    visible = false;
+}
+with (obj_tops_4) {
+    visible = false;
+}
+with (obj_tops_5) {
+    visible = false;
+}
+with (obj_tops_6) {
+    visible = false;
+}
+with (obj_tops_7) {
+    visible = false;
+}
+with (obj_tops_8) {
+    visible = false;
+}
 with (obj_topsmenu) {
     visible = false;
 }

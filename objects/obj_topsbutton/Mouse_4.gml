@@ -1,3 +1,67 @@
+with (obj_tops) {
+	if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
+}
+with (obj_tops_2) {
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
+}
+with (obj_tops_3) {
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
+}
+with (obj_tops_4) {
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
+}
+with (obj_tops_5) {
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
+}
+with (obj_tops_6) {
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
+}
+with (obj_tops_7) {
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
+}
+with (obj_tops_8) {
+    if (!equipped) {
+		mode = "menu";
+		visible = true;
+		x = original_x;
+		y = original_y;
+	}
+}
 with (obj_hairmenu) {
     visible = false;
 }
