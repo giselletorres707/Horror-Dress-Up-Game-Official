@@ -136,7 +136,6 @@
     {"id":{"name":"obj_bottomsmenu","path":"objects/obj_bottomsmenu/obj_bottomsmenu.yy",},},
     {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},
     {"id":{"name":"obj_clothingitem","path":"objects/obj_clothingitem/obj_clothingitem.yy",},},
-    {"id":{"name":"obj_coverupbackground","path":"objects/obj_coverupbackground/obj_coverupbackground.yy",},},
     {"id":{"name":"obj_cutesy_background","path":"objects/obj_cutesy_background/obj_cutesy_background.yy",},},
     {"id":{"name":"obj_cutesytoolsbutton","path":"objects/obj_cutesytoolsbutton/obj_cutesytoolsbutton.yy",},},
     {"id":{"name":"obj_dialogue_2","path":"objects/obj_dialogue_2/obj_dialogue_2.yy",},},
