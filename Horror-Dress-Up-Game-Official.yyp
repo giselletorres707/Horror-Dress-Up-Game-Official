@@ -12,6 +12,7 @@
   "Folders":[
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Hair","folderPath":"folders/Hair.yy","name":"Hair","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"level2","folderPath":"folders/level2.yy","name":"level2","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"misc.","folderPath":"folders/misc..yy","name":"misc.","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -46,7 +47,6 @@
     {"$GMFolder":"","%Name":"Cutesy Dress Up","folderPath":"folders/Sprites/Cutesy Dress Up.yy","name":"Cutesy Dress Up","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Face","folderPath":"folders/Sprites/Face.yy","name":"Face","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Full Body","folderPath":"folders/Sprites/Full Body.yy","name":"Full Body","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Hair","folderPath":"folders/Hair.yy","name":"Hair","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Heartbeat Page","folderPath":"folders/Sprites/Heartbeat Page.yy","name":"Heartbeat Page","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Letters","folderPath":"folders/Sprites/Letters.yy","name":"Letters","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Levels","folderPath":"folders/Sprites/Levels.yy","name":"Levels","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -62,7 +62,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.0.207",
+    "IDEVersion":"2024.14.1.210",
   },
   "name":"Horror-Dress-Up-Game-Official",
   "resources":[
@@ -405,6 +405,13 @@
     {"id":{"name":"level_1","path":"sprites/level_1/level_1.yy",},},
     {"id":{"name":"level_2_open","path":"sprites/level_2_open/level_2_open.yy",},},
     {"id":{"name":"level_2","path":"sprites/level_2/level_2.yy",},},
+    {"id":{"name":"Level1","path":"sprites/Level1/Level1.yy",},},
+    {"id":{"name":"Level2","path":"sprites/Level2/Level2.yy",},},
+    {"id":{"name":"Level3","path":"sprites/Level3/Level3.yy",},},
+    {"id":{"name":"Level4","path":"sprites/Level4/Level4.yy",},},
+    {"id":{"name":"Level5","path":"sprites/Level5/Level5.yy",},},
+    {"id":{"name":"Level6","path":"sprites/Level6/Level6.yy",},},
+    {"id":{"name":"Lock","path":"sprites/Lock/Lock.yy",},},
     {"id":{"name":"newspaperletter","path":"sprites/newspaperletter/newspaperletter.yy",},},
     {"id":{"name":"next","path":"sprites/next/next.yy",},},
     {"id":{"name":"paper_stack","path":"sprites/paper_stack/paper_stack.yy",},},
