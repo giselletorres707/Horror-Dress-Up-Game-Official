@@ -209,6 +209,7 @@
     {"name":"inst_18B8177A","path":"rooms/DressUpRoom/DressUpRoom.yy",},
     {"name":"inst_75AB37DC","path":"rooms/DressUpRoom/DressUpRoom.yy",},
     {"name":"inst_FF89D94","path":"rooms/DressUpRoom/DressUpRoom.yy",},
+    {"name":"inst_70753382","path":"rooms/DressUpRoom/DressUpRoom.yy",},
   ],
   "isDnd":true,
   "layers":[
@@ -220,6 +221,7 @@
     {"$GMRInstanceLayer":"","%Name":"score_ui","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_914A364","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_914A364","objectId":{"name":"ScoringSystem","path":"objects/ScoringSystem/ScoringSystem.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-17.081284,"scaleX":1.0,"scaleY":1.0,"x":928.0,"y":224.0,},
         {"$GMRInstance":"v4","%Name":"inst_EEC69AA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_EEC69AA","objectId":{"name":"DoneButton","path":"objects/DoneButton/DoneButton.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1775.0,"y":1140.0,},
+        {"$GMRInstance":"v4","%Name":"inst_70753382","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_70753382","objectId":{"name":"level_index_wip","path":"objects/level_index_wip/level_index_wip.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2080.0,"y":32.0,},
       ],"layers":[],"name":"score_ui","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Body","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_5EB5064A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5EB5064A","objectId":{"name":"obj_body","path":"objects/obj_body/obj_body.yy",},"previewSprite":{"name":"dollbody","path":"sprites/dollbody/dollbody.yy",},"properties":[

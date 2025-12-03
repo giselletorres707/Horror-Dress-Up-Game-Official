@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"level_2_unlock",
+  "%Name":"level_index_wip",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"level_2_unlock",
+  "name":"level_index_wip",
   "overriddenProperties":[],
   "parent":{
-    "name":"level2",
-    "path":"folders/level2.yy",
+    "name":"Levels",
+    "path":"folders/Objects/Levels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"level_2_open",
-    "path":"sprites/level_2_open/level_2_open.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
