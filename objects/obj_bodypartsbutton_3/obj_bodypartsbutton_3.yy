@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bodypartsbutton_3",
-    "path":"sprites/spr_bodypartsbutton_3/spr_bodypartsbutton_3.yy",
+    "name":"spr_bodypartsbutton_2",
+    "path":"sprites/spr_bodypartsbutton_2/spr_bodypartsbutton_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

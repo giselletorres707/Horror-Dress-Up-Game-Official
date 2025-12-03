@@ -1,1 +1,1 @@
-label = "Head"
+label = "Legs"

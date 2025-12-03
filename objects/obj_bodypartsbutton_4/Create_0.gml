@@ -1,1 +1,1 @@
-label = "Pelvis"
+label = "Waist"
