@@ -1,6 +1,28 @@
 // Makes it so that when the player clicks the tools button, the Horror Room will be opened
 room_goto(HorrorRoom);
 
+obj_body.no_clothes = true;
+with (obj_body.current_accessory) {
+	visible = false;
+}
+with (obj_body.current_bottom) {
+	visible = false;
+}
+with (obj_body.current_face) {
+	visible = false;
+}
+with (obj_body.current_fullbody) {
+	visible = false;
+}
+with (obj_body.current_hair) {
+	visible = false;
+}
+with (obj_body.current_shoes) {
+	visible = false;
+}
+with (obj_body.current_top) {
+	visible = false;
+}
 with (obj_accessories) {
 	visible = false;
 }

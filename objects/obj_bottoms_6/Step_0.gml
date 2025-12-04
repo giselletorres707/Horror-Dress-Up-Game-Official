@@ -1,6 +1,11 @@
-if (mode == "drag" && equipped) {
+if (obj_body.no_clothes) {
+	visible = false;
+}
+else {
+	if (mode == "drag" && equipped) {
 	visible = true;
     x = obj_body.x + 2;
-	y = obj_body.y + 40;
+    y = obj_body.y + 40;
 	depth = -20;
+	}
 }

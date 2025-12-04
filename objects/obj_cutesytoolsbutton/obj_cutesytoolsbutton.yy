@@ -35,5 +35,5 @@
     "path":"sprites/spr_cutesytoolsbutton/spr_cutesytoolsbutton.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
