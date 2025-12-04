@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Hair",
-    "path":"folders/Sprites/Hair.yy",
+    "path":"folders/Hair.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -19,6 +19,7 @@
   "height":125,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"36be29b2-3c66-421d-9b7a-5ffdc6fe4fc8","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"36be29b2-3c66-421d-9b7a-5ffdc6fe4fc8","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"f59101b0-47ca-4994-939a-e2b09f5b1fd9","blendMode":0,"displayName":"default","isLocked":false,"name":"f59101b0-47ca-4994-939a-e2b09f5b1fd9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"sprite_done",

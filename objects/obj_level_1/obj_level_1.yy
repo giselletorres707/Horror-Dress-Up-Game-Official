@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"level_1",
-    "path":"sprites/level_1/level_1.yy",
+    "name":"Level1",
+    "path":"sprites/Level1/Level1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
