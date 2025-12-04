@@ -463,6 +463,7 @@
     {"id":{"name":"spr_bottomsmenu_7","path":"sprites/spr_bottomsmenu_7/spr_bottomsmenu_7.yy",},},
     {"id":{"name":"spr_bottomsmenu_8","path":"sprites/spr_bottomsmenu_8/spr_bottomsmenu_8.yy",},},
     {"id":{"name":"spr_bottomsmenu","path":"sprites/spr_bottomsmenu/spr_bottomsmenu.yy",},},
+    {"id":{"name":"spr_cute_letter","path":"sprites/spr_cute_letter/spr_cute_letter.yy",},},
     {"id":{"name":"spr_cutesytoolsbutton","path":"sprites/spr_cutesytoolsbutton/spr_cutesytoolsbutton.yy",},},
     {"id":{"name":"spr_dialogue_1","path":"sprites/spr_dialogue_1/spr_dialogue_1.yy",},},
     {"id":{"name":"spr_dialogue_2","path":"sprites/spr_dialogue_2/spr_dialogue_2.yy",},},
