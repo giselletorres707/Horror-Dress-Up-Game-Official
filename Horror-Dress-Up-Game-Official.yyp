@@ -66,7 +66,7 @@
   },
   "name":"Horror-Dress-Up-Game-Official",
   "resources":[
-    {"id":{"name":"cuttofit_font","path":"fonts/cuttofit_font/cuttofit_font.yy",},},
+    {"id":{"name":"Cut_to_Font","path":"fonts/Cut_to_Font/Cut_to_Font.yy",},},
     {"id":{"name":"BGM_DressUpRoom","path":"objects/BGM_DressUpRoom/BGM_DressUpRoom.yy",},},
     {"id":{"name":"BGM_HorrorRoom","path":"objects/BGM_HorrorRoom/BGM_HorrorRoom.yy",},},
     {"id":{"name":"DoneButton","path":"objects/DoneButton/DoneButton.yy",},},
