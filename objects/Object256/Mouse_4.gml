@@ -1,4 +1,4 @@
 with(obj_letter) {
 	instance_destroy(obj_letter)
 }
-instance_destroy(obj_x_button)
+instance_destroy(Object256)

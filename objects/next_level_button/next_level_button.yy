@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"restart",
-    "path":"sprites/restart/restart.yy",
+    "name":"spr_next_level",
+    "path":"sprites/spr_next_level/spr_next_level.yy",
   },
   "spriteMaskId":null,
   "visible":true,

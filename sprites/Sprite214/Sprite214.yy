@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"spr_cute_letter",
+  "%Name":"Sprite214",
   "bboxMode":0,
   "bbox_bottom":555,
   "bbox_left":7,
@@ -23,7 +23,7 @@
     {"$GMImageLayer":"","%Name":"0f35887a-d6c8-4559-b75e-dd8a9885832d","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"0f35887a-d6c8-4559-b75e-dd8a9885832d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"bc250e5e-0903-4af4-ae98-27e5aa62cb5f","blendMode":0,"displayName":"default","isLocked":false,"name":"bc250e5e-0903-4af4-ae98-27e5aa62cb5f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_cute_letter",
+  "name":"Sprite214",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -35,7 +35,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"spr_cute_letter",
+    "%Name":"Sprite214",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -59,7 +59,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_cute_letter",
+    "name":"Sprite214",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -71,7 +71,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ec07dea6-5e83-403d-bea8-cd720a75badf","path":"sprites/spr_cute_letter/spr_cute_letter.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ec07dea6-5e83-403d-bea8-cd720a75badf","path":"sprites/Sprite214/Sprite214.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"d529671c-b6cc-48ec-9e87-a7885d024f65","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
