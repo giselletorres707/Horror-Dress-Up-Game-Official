@@ -319,6 +319,7 @@
     {"id":{"name":"obj_topsmenu","path":"objects/obj_topsmenu/obj_topsmenu.yy",},},
     {"id":{"name":"obj_vacuumtool","path":"objects/obj_vacuumtool/obj_vacuumtool.yy",},},
     {"id":{"name":"obj_warningbloodmeter","path":"objects/obj_warningbloodmeter/obj_warningbloodmeter.yy",},},
+    {"id":{"name":"obj_x_button","path":"objects/obj_x_button/obj_x_button.yy",},},
     {"id":{"name":"obj_zoomedcamerabg","path":"objects/obj_zoomedcamerabg/obj_zoomedcamerabg.yy",},},
     {"id":{"name":"object_mainmenu_background","path":"objects/object_mainmenu_background/object_mainmenu_background.yy",},},
     {"id":{"name":"ScoringSystem","path":"objects/ScoringSystem/ScoringSystem.yy",},},
