@@ -1,6 +1,0 @@
-instance_destroy(obj_body.current_accessory)
-instance_destroy(obj_body.current_bottom)
-instance_destroy(obj_body.current_fullbody)
-instance_destroy(obj_body.current_bottom)
-instance_destroy(obj_body.current_shoes)
-instance_destroy(obj_body.current_bottom)
