@@ -1,1 +1,0 @@
-visible = global.level_index == 0;

@@ -253,6 +253,7 @@
     {"id":{"name":"obj_letter","path":"objects/obj_letter/obj_letter.yy",},},
     {"id":{"name":"obj_level_1","path":"objects/obj_level_1/obj_level_1.yy",},},
     {"id":{"name":"obj_level_2","path":"objects/obj_level_2/obj_level_2.yy",},},
+    {"id":{"name":"obj_level_3","path":"objects/obj_level_3/obj_level_3.yy",},},
     {"id":{"name":"obj_newspaper","path":"objects/obj_newspaper/obj_newspaper.yy",},},
     {"id":{"name":"obj_next","path":"objects/obj_next/obj_next.yy",},},
     {"id":{"name":"obj_paper_stack","path":"objects/obj_paper_stack/obj_paper_stack.yy",},},
