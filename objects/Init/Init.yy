@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"LevelLock",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Init",
+  "eventList":[],
   "managed":true,
-  "name":"LevelLock",
+  "name":"Init",
   "overriddenProperties":[],
   "parent":{
-    "name":"Levels",
-    "path":"folders/Objects/Levels.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Lock",
-    "path":"sprites/Lock/Lock.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
