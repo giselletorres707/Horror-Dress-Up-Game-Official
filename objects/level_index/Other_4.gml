@@ -1,0 +1,1 @@
+global.level_index += 1;
