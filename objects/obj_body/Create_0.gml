@@ -9,3 +9,4 @@ current_fullbody = noone;
 current_hair = noone;
 current_shoes = noone;
 current_top = noone;
+no_clothes = false;

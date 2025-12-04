@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":894,
   "bbox_left":0,
-  "bbox_right":452,
+  "bbox_right":451,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"bee0680d-e00d-477f-be8a-b73a3cbddfd0","name":"bee0680d-e00d-477f-be8a-b73a3cbddfd0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"71dd496c-68e0-42dc-a2fe-548e22263046","name":"71dd496c-68e0-42dc-a2fe-548e22263046","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":895,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"c1b83ad2-9b10-43dd-be3f-f04cfc1d6388","blendMode":0,"displayName":"default","isLocked":false,"name":"c1b83ad2-9b10-43dd-be3f-f04cfc1d6388","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"eecd12fc-302e-46c1-a3fa-118b52ca8524","blendMode":0,"displayName":"default","isLocked":false,"name":"eecd12fc-302e-46c1-a3fa-118b52ca8524","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"HorrorBackgroundWireframe",
   "nineSlice":null,
@@ -71,8 +71,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bee0680d-e00d-477f-be8a-b73a3cbddfd0","path":"sprites/HorrorBackgroundWireframe/HorrorBackgroundWireframe.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"15297988-7890-4854-b4cd-cc70aa03a212","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"71dd496c-68e0-42dc-a2fe-548e22263046","path":"sprites/HorrorBackgroundWireframe/HorrorBackgroundWireframe.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"1235f7ad-cce9-4ee3-b854-b2e1b36eea59","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -88,5 +88,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":453,
+  "width":452,
 }
