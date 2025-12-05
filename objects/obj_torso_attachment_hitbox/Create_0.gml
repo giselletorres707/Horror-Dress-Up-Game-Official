@@ -1,3 +1,3 @@
-sprite_index = noone;
+//sprite_index = noone;
 
 mask_index = spr_mask;
