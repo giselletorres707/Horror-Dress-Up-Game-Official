@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Cutesy Dress Up",
-    "path":"folders/Sprites/Cutesy Dress Up.yy",
+    "name":"Doll Bodies",
+    "path":"folders/Sprites/Doll Bodies.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
