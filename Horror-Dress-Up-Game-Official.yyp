@@ -12,8 +12,8 @@
   "Folders":[
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Hair","folderPath":"folders/Hair.yy","name":"Hair","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"misc.","folderPath":"folders/misc..yy","name":"misc.","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Hair","folderPath":"folders/Sprites/Hair.yy","name":"Hair","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"misc.","folderPath":"folders/Sprites/misc..yy","name":"misc.","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Accessories","folderPath":"folders/Objects/Accessories.yy","name":"Accessories","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -147,6 +147,7 @@
     {"id":{"name":"obj_bottomsmenu_drag","path":"objects/obj_bottomsmenu_drag/obj_bottomsmenu_drag.yy",},},
     {"id":{"name":"obj_bottomsmenu","path":"objects/obj_bottomsmenu/obj_bottomsmenu.yy",},},
     {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},
+    {"id":{"name":"obj_clothingdrag","path":"objects/obj_clothingdrag/obj_clothingdrag.yy",},},
     {"id":{"name":"obj_clothingitem","path":"objects/obj_clothingitem/obj_clothingitem.yy",},},
     {"id":{"name":"obj_cutesy_background","path":"objects/obj_cutesy_background/obj_cutesy_background.yy",},},
     {"id":{"name":"obj_cutesytoolsbutton","path":"objects/obj_cutesytoolsbutton/obj_cutesytoolsbutton.yy",},},

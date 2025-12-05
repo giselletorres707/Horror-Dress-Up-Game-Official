@@ -14,7 +14,10 @@
     "name":"Tops",
     "path":"folders/Objects/Tops.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_clothingdrag",
+    "path":"objects/obj_clothingdrag/obj_clothingdrag.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

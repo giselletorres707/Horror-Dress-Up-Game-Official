@@ -14,7 +14,10 @@
     "name":"Full Body",
     "path":"folders/Objects/Full Body.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_clothingdrag",
+    "path":"objects/obj_clothingdrag/obj_clothingdrag.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
