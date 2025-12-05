@@ -10,3 +10,7 @@ current_hair = noone;
 current_shoes = noone;
 current_top = noone;
 no_clothes = false;
+
+visible_in_horror = false;
+visible_in_dressup = false;
+
