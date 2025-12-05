@@ -435,6 +435,7 @@
     {"id":{"name":"Lock","path":"sprites/Lock/Lock.yy",},},
     {"id":{"name":"newspaperletter","path":"sprites/newspaperletter/newspaperletter.yy",},},
     {"id":{"name":"next","path":"sprites/next/next.yy",},},
+    {"id":{"name":"obj_test","path":"sprites/obj_test/obj_test.yy",},},
     {"id":{"name":"paper_stack","path":"sprites/paper_stack/paper_stack.yy",},},
     {"id":{"name":"restart","path":"sprites/restart/restart.yy",},},
     {"id":{"name":"Room","path":"sprites/Room/Room.yy",},},
