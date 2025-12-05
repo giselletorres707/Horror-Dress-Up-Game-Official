@@ -343,6 +343,7 @@
     {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"id":{"name":"ScoringRoom","path":"rooms/ScoringRoom/ScoringRoom.yy",},},
     {"id":{"name":"CameraFocus","path":"scripts/CameraFocus/CameraFocus.yy",},},
+    {"id":{"name":"scr_equip_clothing","path":"scripts/scr_equip_clothing/scr_equip_clothing.yy",},},
     {"id":{"name":"bgm_Cut_to_Fit","path":"sounds/bgm_Cut_to_Fit/bgm_Cut_to_Fit.yy",},},
     {"id":{"name":"bgm_Dressing_For_Others","path":"sounds/bgm_Dressing_For_Others/bgm_Dressing_For_Others.yy",},},
     {"id":{"name":"bgm_Operation_You_Will_Be_Beautiful","path":"sounds/bgm_Operation_You_Will_Be_Beautiful/bgm_Operation_You_Will_Be_Beautiful.yy",},},
