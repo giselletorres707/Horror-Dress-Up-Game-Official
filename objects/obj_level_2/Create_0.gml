@@ -1,3 +1,3 @@
-visible = false;
+visible = global.level_index >= 1;
 
 
