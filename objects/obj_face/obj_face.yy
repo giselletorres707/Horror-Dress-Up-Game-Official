@@ -8,7 +8,7 @@
   "managed":true,
   "name":"obj_face",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_clothingitem","path":"objects/obj_clothingitem/obj_clothingitem.yy",},"propertyId":{"name":"theme","path":"objects/obj_clothingitem/obj_clothingitem.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"cute",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_clothingitem","path":"objects/obj_clothingitem/obj_clothingitem.yy",},"propertyId":{"name":"theme","path":"objects/obj_clothingitem/obj_clothingitem.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"cute\", \"cool\", \"formal\", \"casual\", \"gothic\"",},
   ],
   "parent":{
     "name":"Face",

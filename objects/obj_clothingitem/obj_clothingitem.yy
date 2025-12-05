@@ -29,7 +29,14 @@
   "properties":[
     {"$GMObjectProperty":"v2","%Name":"category","filters":[],"listItems":[],"multiselect":false,"name":"category","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"none","varType":2,},
     {"$GMObjectProperty":"v2","%Name":"score","filters":[],"listItems":[],"multiselect":false,"name":"score","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
-    {"$GMObjectProperty":"v2","%Name":"theme","filters":[],"listItems":[],"multiselect":false,"name":"theme","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"none","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"theme","filters":[],"listItems":[
+        "\"cute\"",
+        "\"cool\"",
+        "\"formal\"",
+        "\"casual\"",
+        "\"gothic\"",
+        "none",
+      ],"multiselect":true,"name":"theme","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":6,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

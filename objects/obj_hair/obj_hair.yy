@@ -7,7 +7,9 @@
   ],
   "managed":true,
   "name":"obj_hair",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_clothingitem","path":"objects/obj_clothingitem/obj_clothingitem.yy",},"propertyId":{"name":"theme","path":"objects/obj_clothingitem/obj_clothingitem.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"cute\", \"cool\", \"casual\", \"gothic\"",},
+  ],
   "parent":{
     "name":"Hair",
     "path":"folders/Objects/Hair.yy",
@@ -29,12 +31,7 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v2","%Name":"theme1","filters":[],"listItems":[
-        "cool",
-        "gothic",
-      ],"multiselect":true,"name":"theme1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"cool, gothic","varType":6,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
