@@ -1,16 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_limbs",
-  "eventList":[],
+  "%Name":"obj_torso_attachment_hitbox",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_limbs",
+  "name":"obj_torso_attachment_hitbox",
   "overriddenProperties":[],
   "parent":{
     "name":"Horror Mechanics",
     "path":"folders/Objects/Horror Mechanics.yy",
   },
   "parentObjectId":null,
-  "persistent":true,
+  "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
