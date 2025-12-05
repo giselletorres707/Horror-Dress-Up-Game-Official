@@ -606,11 +606,11 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"HorrorRoom","path":"rooms/HorrorRoom/HorrorRoom.yy",},},
     {"roomId":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"roomId":{"name":"LevelsPage","path":"rooms/LevelsPage/LevelsPage.yy",},},
     {"roomId":{"name":"Hearbeat","path":"rooms/Hearbeat/Hearbeat.yy",},},
     {"roomId":{"name":"DressUpRoom","path":"rooms/DressUpRoom/DressUpRoom.yy",},},
-    {"roomId":{"name":"HorrorRoom","path":"rooms/HorrorRoom/HorrorRoom.yy",},},
     {"roomId":{"name":"ScoringRoom","path":"rooms/ScoringRoom/ScoringRoom.yy",},},
   ],
   "templateType":"game",
