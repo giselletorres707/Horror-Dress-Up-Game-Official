@@ -1,1 +1,1 @@
-visible = global.level_index >= 3;
+visible = global.level_index >= 10
