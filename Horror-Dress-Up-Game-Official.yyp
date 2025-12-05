@@ -378,6 +378,7 @@
     {"id":{"name":"Bottoms","path":"sprites/Bottoms/Bottoms.yy",},},
     {"id":{"name":"dollbodu_official","path":"sprites/dollbodu_official/dollbodu_official.yy",},},
     {"id":{"name":"dollbody_1","path":"sprites/dollbody_1/dollbody_1.yy",},},
+    {"id":{"name":"dollbody_clothed","path":"sprites/dollbody_clothed/dollbody_clothed.yy",},},
     {"id":{"name":"dollbody","path":"sprites/dollbody/dollbody.yy",},},
     {"id":{"name":"envelope","path":"sprites/envelope/envelope.yy",},},
     {"id":{"name":"Face_2","path":"sprites/Face_2/Face_2.yy",},},
